@@ -275,6 +275,8 @@
 			<false/>
 			<key>SyncRuntimePermissions</key>
 			<false/>
+			<key>ResizeAppleGpuBars</key>
+			<integer>-1</integer>
 		</dict>
 	</dict>
 	<key>DeviceProperties</key>
@@ -1400,6 +1402,8 @@
 				<true/>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string></string>
 			</dict>
 			<dict>
 				<key>Path</key>
@@ -1408,6 +1412,8 @@
 				<true/>
 				<key>Arguments</key>
 				<string></string>
+				<key>Comment</key>
+				<string></string>
 			</dict>
 			<dict>
 				<key>Path</key>
@@ -1415,6 +1421,8 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
 				<string></string>
 			</dict>
 		</array>
@@ -1531,6 +1539,8 @@
 			<false/>
 			<key>ForceOcWriteFlash</key>
 			<false/>
+			<key>ResizeGpuBars</key>
+			<integer>-1</integer>
 		</dict>
 		<key>ReservedMemory</key>
 		<array>
