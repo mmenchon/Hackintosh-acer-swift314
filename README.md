@@ -25,8 +25,6 @@ Macos Catalina
 
 [**fdschonborn**](https://github.com/fdschonborn/OpenCore-Acer-Swift-SF314-52-371C) for making guide for [Acer Swift SF314-52-371C][snlookup]
 
-
 [**linhnguyen-gt**](https://github.com/linhnguyen-gt/Hackintosh-Acer-Swift3-SF315-52G) for making guide for Acer Swift3 SF315-52G
-
 
 [snlookup]: https://snlookup.com/acer-swift-sf314-52-ultra-thin-nx-gplal-003-p110150
